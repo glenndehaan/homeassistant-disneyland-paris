@@ -57,6 +57,7 @@ Please open an issue to report bugs or request features.
 
 ## Screenshots
 
+![Disneyland Paris Integration Sensors](screenshots/integration_sensors.png)
 
 ## License
 
