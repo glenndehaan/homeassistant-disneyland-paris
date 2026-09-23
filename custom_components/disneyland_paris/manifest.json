@@ -1,0 +1,13 @@
+{
+  "domain": "disneyland_paris",
+  "name": "Disneyland Paris",
+  "codeowners": ["@glenndehaan"],
+  "config_flow": true,
+  "documentation": "https://github.com/glenndehaan/homeassistant-disneyland-paris",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/glenndehaan/homeassistant-disneyland-paris/issues",
+  "requirements": ["dlpwait==1.1.0"],
+  "single_config_entry": true,
+  "version": "1.0.0"
+}
